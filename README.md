@@ -15,4 +15,4 @@ This is my very basic project of understanding.
 
 This is an inline-style link to our [myy-projectt](https://myy-projectt.netlify.app/)
 
-##Thank you
+## Thank you
