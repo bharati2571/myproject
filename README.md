@@ -1,9 +1,60 @@
-HTML is the standard markup language used to structure and display content on the web.
-It defines the layout of a webpage using elements (tags), allowing text, images, links, and multimedia to be shown.
- Forms the foundation of nearly all websites today. 
+# 🌐 Simple HTML Website Project
 
-![image alt]("C:\Users\whyor\OneDrive\Pictures\Screenshots\Screenshot (50).png")
+A beginner-friendly **HTML website project** created to understand the fundamentals of web development.  
+This project includes multiple pages such as Home, About, and Contact, built using only **HTML**.
 
-A laptop is a compact, portable computer featuring an integrated screen,
-keyboard, trackpad, and internal components like a CPU, RAM, and battery in a hinged, folding unit.
-It merges desktop functionality into a mobile form factor used for computing, media, and work. 
+---
+
+## 📌 Features
+
+- 🏠 Home Page  
+- ℹ️ About Page  
+- 📞 Contact Page  
+- 📄 Clean and simple layout  
+- 🎯 Beginner-friendly structure  
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5**
+
+---
+
+## 📷 Project Screenshots
+
+### 🏠 Index Page
+![Home Page](index-page.png)
+
+### ℹ️ About Page
+![About Page](about-page.png)
+
+### 📞 Contact Page
+![Contact Page](contect-page.png)
+
+---
+
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](myy-projectt.netlify.app/)
+
+---
+
+## 📂 Project Structure
+
+---
+
+## 💡 How to Use
+
+1. Download or clone the repository  
+2. Open `index.html` in any web browser  
+3. Navigate through the pages  
+
+---
+
+## 🙌 Author
+
+**bharati**  
+GitHub: [@bharati2571](https://github.com/bharati2571)
+---
+⭐ If you like this project, don’t forget to **star the repository**!
